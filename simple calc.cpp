@@ -1,6 +1,6 @@
 /*
 simple calculator program
-liscenced under GNU General Public License 3.0
+lscensed under GNU General Public License 3.0
 
 created--------5/2/16
 last updated---5/2/16
