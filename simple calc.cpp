@@ -1,12 +1,13 @@
 /*
 simple calculator program
-lscensed under GNU General Public License 3.0
+licensed under GNU General Public License 3.0
 
 created--------5/2/16
 last updated---5/2/16
 
 changelog:
 	v1.0 - program created
+	v1.1 - fixed comment spelling ;^)
   */
 
 #include <iostream>
