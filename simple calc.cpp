@@ -26,7 +26,7 @@ int main()
       cout << "\n/Simple Calculator/\n";
     }
 
-    cout << "\nEnter your equation e.g. 1 + 1\n"; //asks use for equation
+    cout << "\nEnter your equation e.g. 1 + 1\n"; //asks user for equation
     cin >> num1 >> operation >> num2; //first number, operation then second number. user must use spaces or they break the program
 
     bork = 0; //see line 44
