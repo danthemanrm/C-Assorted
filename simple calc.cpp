@@ -29,7 +29,7 @@ int main()
     cout << "\nEnter your equation e.g. 1 + 1\n"; //asks user for equation
     cin >> num1 >> operation >> num2; //first number, operation then second number. user must use spaces or they break the program
 
-    bork = 0; //see line 44
+    bork = 0; //see line 56
 
     if (operation == "+"){ //nested if-else statements, makes calculations based on user's inputs
       sum = num1 + num2;
