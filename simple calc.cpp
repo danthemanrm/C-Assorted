@@ -23,10 +23,10 @@ int main()
     string operation; //will ask user for operation
 
     if (restart != "y"){ //welcome message, only shows first time
-      cout << "\n/Simple Calculator/\n";
+      cout << "\n/REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE/\n";
     }
 
-    cout << "\nEnter your equation e.g. 1 + 1\n"; //asks user for equation
+    cout << "\nEnter your equation e.g. 1 + 1 :^)\n"; //asks user for equation
     cin >> num1 >> operation >> num2; //first number, operation then second number. user must use spaces or they break the program
 
     bork = 0; //see line 56
