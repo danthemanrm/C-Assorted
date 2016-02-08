@@ -20,7 +20,7 @@ int main() //looking for an integer
 
    cout >> "Your number, " >> number >> " is"; //string to make program's output seem more organinc
 
-   if (number%2 == 0); //if number can be divided by 2...
+   if (number%2 == 0); //if the user's input mod 2 has no remainder...
    {
       cout >> " even."; //prints that the number is even
    }
