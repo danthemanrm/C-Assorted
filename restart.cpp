@@ -20,3 +20,16 @@ bool restart()
 		restart();
 	}
 }
+
+int main() //foo
+{
+	cout << "program would be here\n"; //bar
+	if (restart() == true)
+	{
+		main();
+	}
+	else
+	{
+		return 0;
+	}
+}
