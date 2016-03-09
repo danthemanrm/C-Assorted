@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 bool restart()
 {
 	cout << "do you want to restart? (y/n) ";
