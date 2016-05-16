@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	char array[][] = {};
+	char array[][] = {}; //initialises 2D matrix, will be either x or o
 	int user = 1;
 	int answer;
 	while (true)
